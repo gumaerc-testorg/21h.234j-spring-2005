@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides a description of the course, meeting times,
+  and a syllabus archive.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +18,7 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Spring 2010, Robert Fogelson ([PDF]({{< baseurl >}}/resources/mit21h_234js05_sylls10))
+> Spring 2010, Robert Fogelson ({{% resource_link 90d655ea-a017-7ed2-d7b2-496900087734 "PDF" %}})
 
 Downtown
 --------
