@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics and student presentations.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: ccd100f7-da57-8799-964c-212d46868936
 ---
