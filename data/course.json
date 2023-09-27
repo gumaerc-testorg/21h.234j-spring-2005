@@ -2,7 +2,8 @@
   "term": "Spring",
   "year": "2005",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -47,6 +48,7 @@
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],
-  "site_uid": "ef6a6b49-f09f-4186-bd73-2b64654baf39",
+  "site_uid": "f40664ea-f5bb-45f6-b0bc-fa421756cfc0",
+  "site_short_id": "21h.234j-spring-2005",
   "title": "Course Metadata"
 }
