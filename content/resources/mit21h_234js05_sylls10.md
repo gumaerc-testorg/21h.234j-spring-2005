@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This syllabus provides the course schedule.
-file: /courses/21h-234j-downtown-spring-2005/90d655eaa0177ed2d7b2496900087734_MIT21H_234JS05_syllS10.pdf
+file: /ol-ocw-studio-app/courses/21h-234j-downtown-spring-2005/90d655eaa0177ed2d7b2496900087734_MIT21H_234JS05_syllS10.pdf
 file_size: 30775
 file_type: application/pdf
 learning_resource_types: []
