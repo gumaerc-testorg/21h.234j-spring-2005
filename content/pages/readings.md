@@ -86,7 +86,7 @@ Teaford, Jon C. Chapters 2, 6, and 7 in _The Rough Road to Renaissance: Urban Re
 
 Weiss, Marc A. "The Origins and Legacy of Urban Renewal." In _Federal Housing Policy and Programs_. Edited by Paul J. Mitchell. New Brunswick, NJ: Rutgers University Center for Urban Planning, 1985. pp. 253-276. ISBN: 9780882851075.
 
-{{% resource_link "adc55017-7647-473c-9a15-d2ab00397d3b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Frieden, Bernard J., and Lynne B. Sagalyn. Chapter 6 in {{% resource_link "adc55017-7647-473c-9a15-d2ab00397d3b" "_Downtown, Inc.: How America Rebuilds Cities_" %}}. Cambridge, MA: MIT Press, 1989. ISBN: 9780262061285.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061285) Frieden, Bernard J., and Lynne B. Sagalyn. Chapter 6 in [_Downtown, Inc.: How America Rebuilds Cities_](https://mitpress.mit.edu/9780262061285). Cambridge, MA: MIT Press, 1989. ISBN: 9780262061285.
 
 
 {{< tdclose >}}
